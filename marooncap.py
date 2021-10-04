@@ -1,4 +1,9 @@
 # marooncap.py
+# The statement of the problem can be found here: 
+# https://mc.uchicago.edu/MC-Challenge_2021.pdf
+
+# Apologies for lack of documentation, was written in a hurry for one-off use. 
+
 import numpy as np
 
 a = [0.53, 0.21]
