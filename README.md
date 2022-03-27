@@ -8,4 +8,6 @@ Compilation of unrelated code created for personal projects
 /Trading contains some code put together to backtest the validity of certain mean reversion trading strategies, as well as some basic code to illustrate the results of each. 
 /Logs is simply the logs I had the programs write to, the real programs are in /Programs. 
 
+/Advent contains code solutions written for the Advent of Code 2021 challenge. It also includes the test and actual prompts used in the problems.   
+
 marooncap.py is a little script written up to solve a specific problem. 
