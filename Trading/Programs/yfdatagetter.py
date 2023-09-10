@@ -10,7 +10,7 @@ superInterval = "1m"
 spdf = pd.DataFrame(spy.history(period = superPeriod, interval = superInterval))
 
 filename = "SPY" + superPeriod + superInterval + "07_21" + ".csv"
-abs_path = "C:/Users/henry/Work/Time to Get A Job/"
+abs_path = "C:/Users/user/folder/"
 
 full_path_name = os.path.join(abs_path, filename)
 
